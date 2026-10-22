@@ -7,7 +7,7 @@
 
 A highly accurate, stopwatch application featuring lap tracking, persistent storage, and an elegant dark UI. Built to mimic the reliability on the web.
 
-**[View Live Demo (Click Me)](https://sct-wd-2-gamma.vercel.app/)**
+**[View Live Demo (Click Me)](https://sct-wd-2-inky-gamma.vercel.app/)**
 
 ## Preview
 
